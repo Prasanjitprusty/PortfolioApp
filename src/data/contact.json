@@ -1,0 +1,36 @@
+[
+    {
+        "image": "images/instagram.png",
+        "icon": "instagram",
+        "link": "https://www.instagram.com/"
+      },
+    {
+      "image": "images/fb.png",
+      "icon": "fb",
+      "link": "https://www.facebook.com"
+    },
+    {
+      "image": "images/whatsapp.png",
+      "icon": "whatsapp",
+      "link": "https://www.whatsapp.com"
+    },
+    {
+      "image": "images/linkedin.png",
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com"
+    },
+    {
+        "image": "images/github.png",
+        "icon": "github",
+        "link": "https://www.github.com"
+      },
+      {
+        "image": "images/gmail.png",
+        "icon": "gmail",
+        "link": "https://www.gmail.com"
+      }
+    
+      
+    
+  ]
+  
