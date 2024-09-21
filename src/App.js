@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom"; // Remove Route and Routes
 import Home from "./components/Home";
 import Experience from "./pages/exprience";
 import Skills from "./pages/Skills";
@@ -11,13 +11,11 @@ function App() {
     <div>
       <Router>
         <NavBar /> 
-        
-          <Home />
-          <Experience />
-          <Skills />
-          <Projects />
-          <Contact />
-  
+        <Home />
+        <Experience />
+        <Skills />
+        <Projects />
+        <Contact />
       </Router>
     </div>
   );
